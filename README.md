@@ -49,7 +49,7 @@ Download Git on your system
 Clone the repository:
 
 ```bash
-https://github.com/tejasjadhav0704-sketch/Fragment_Practice
+https://github.com/tejasjadhav0704-sketch/Fragment_Practice.git
 ```
 
 Then:
