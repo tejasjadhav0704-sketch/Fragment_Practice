@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Fragment_1"
+        android:icon="@drawable/outline_home_24"
+        android:id="@+id/Fragment_1"/>
+    <item android:title="Fragment_2"
+        android:icon="@drawable/outline_database_24"
+        android:id="@+id/Fragment_2"/>
+    <item android:title="Fragment_3"
+        android:icon="@drawable/outline_person_24"
+        android:id="@+id/Fragment_3"/>
+</menu>
